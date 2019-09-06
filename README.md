@@ -12,7 +12,7 @@ We want you to hear from our CEO Austen Allred talk about the principles beyond 
 [A CS Education That's Free Until You Get A Job - Austen Allred of Lambda School](https://www.youtube.com/watch?v=_yIAYZtdrfI)
 
 ## Spirit of Independent Learning
-We want to inspire you to be an independent learner. This TEDx video by Barbara Oakley will get you started on this journey by giving practical tips on how you learn. 
+We want to inspire you to be an independent learner. This TEDx video by Barbara Oakley will get you started on this journey by giving practical tips on how you learn. Followed by a blog post with some advice on being a great programmer but useful suggestions for every track. 
 
 [Learning How to Learn](https://www.youtube.com/watch?v=O96fE1E-rf8)
 
