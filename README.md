@@ -24,4 +24,6 @@ Outcomes based assessment is very different from traditional grading schemes. We
 
 This is a Twine story -  a non-linear interactive story that is very similar to the 80's and 90's Choose Your Own Adventure stories. Step through the story making choices then come back to the beginning and make different choices to see more of the content. 
 
+You will need to download this file from github to open it in a browser. 
+
 [Outcome Based Assessment Twine Story](https://github.com/LambdaSchool/LLModule1/blob/master/Outcome%20Based%20Assessment.html)
