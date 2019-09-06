@@ -24,4 +24,3 @@ Outcomes based assessment is very different from traditional grading schemes. We
 
 This is a Twine story -  a non-linear interactive story that is very similar to the 80's and 90's Choose Your Own Adventure stories. Step through the story making choices then come back to the beginning and make different choices to see more of the content. 
 
-**Insert Twine html file**
